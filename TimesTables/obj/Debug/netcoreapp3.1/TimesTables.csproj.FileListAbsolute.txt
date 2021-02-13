@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.exe
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.dll
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\bin\Debug\netcoreapp3.1\TimesTables.pdb
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.dll
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.pdb
+C:\Users\507\OneDrive\Code\Unfinished\TimesTables\obj\Debug\netcoreapp3.1\TimesTables.genruntimeconfig.cache
